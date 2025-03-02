@@ -12,13 +12,16 @@ Before you begin, ensure you have the following installed:
 - [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/) (for package management)
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/rayy-lo/haventree
+cd haventree
 npm install
-npm run dev
 ```
 
 Create an `.env` file from `.env.example`
+
+```
+npm run dev
+```
 
 ## Design Decisions
 
